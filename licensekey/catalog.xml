@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="org/flowplayer/KeyUtil" mod="1387278398000" signatureChecksum="1299571384" >
+        <def id="org.flowplayer:KeyUtil" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="flash.external:ExternalInterface" type="e" /> 
+        <dep id="org.flowplayer.util:DomainUtil" type="e" /> 
+        <dep id="com.adobe.crypto:MD5" type="e" /> 
+        <dep id="Math" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="Error" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/flowplayer/util/DomainUtil" mod="1387277793000" signatureChecksum="3872491870" >
+        <def id="org.flowplayer.util:DomainUtil" /> 
+        <dep id="org.flowplayer.util:URLUtil" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/adobe/utils/IntUtil" mod="1347434634000" signatureChecksum="2521579582" >
+        <def id="com.adobe.utils:IntUtil" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/adobe/utils/StringUtil" mod="1347434634000" signatureChecksum="3751912825" >
+        <def id="com.adobe.utils:StringUtil" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="_c8aac2d0f1609738d3183e75bf691f98319ee4c0b850e071e08a75f3eca990a6_flash_display_Sprite" mod="1387473855291" signatureChecksum="1599109707" >
+        <def id="_c8aac2d0f1609738d3183e75bf691f98319ee4c0b850e071e08a75f3eca990a6_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/adobe/crypto/MD5" mod="1347434634000" signatureChecksum="182593323" >
+        <def id="com.adobe.crypto:MD5" /> 
+        <dep id="com.adobe.utils:IntUtil" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/flowplayer/FlowplayerLicenseKey" mod="1387278398000" signatureChecksum="1703108459" >
+        <def id="org.flowplayer:FlowplayerLicenseKey" /> 
+        <dep id="org.flowplayer:KeyUtil" type="e" /> 
+        <dep id="trace" type="e" /> 
+        <dep id="org.flowplayer.util:DomainUtil" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="org/flowplayer/util/URLUtil" mod="1387277793000" signatureChecksum="3088064543" >
+        <def id="org.flowplayer.util:URLUtil" /> 
+        <dep id="flash.net:URLRequest" type="e" /> 
+        <dep id="flash.external:ExternalInterface" type="e" /> 
+        <dep id="flash.net:navigateToURL" type="e" /> 
+        <dep id="com.adobe.utils:StringUtil" type="e" /> 
+        <dep id="Error" type="e" /> 
+        <dep id="flash.display:LoaderInfo" type="s" /> 
+        <dep id="RegExp" type="s" /> 
+        <dep id="Error" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
